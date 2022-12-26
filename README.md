@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @xiangrongonline
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in singing, dancing, rap, basketball and music.
+- 🌱 I’m currently learning how to make money by lying flat.
+- 💞️ I’m looking to collaborate on studying and working.
+- 📫 How to reach me.
+- You can contact me at 2741530964@qq.com
 
 <!---
 xiangrongonline/xiangrongonline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
